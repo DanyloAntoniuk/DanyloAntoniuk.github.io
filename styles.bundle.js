@@ -57,22 +57,22 @@ module.exports = function() {
 
 /***/ }),
 
-/***/ 150:
+/***/ 151:
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(14)();
 // imports
-
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=PT+Serif);", ""]);
 
 // module
-exports.push([module.i, "body {\n  background: url(" + __webpack_require__(192) + ");\n}\n\n", ""]);
+exports.push([module.i, "body {\n  background: url(" + __webpack_require__(193) + ");\n}\n\n", ""]);
 
 // exports
 
 
 /***/ }),
 
-/***/ 191:
+/***/ 192:
 /***/ (function(module, exports) {
 
 /*
@@ -325,31 +325,31 @@ function updateLink(linkElement, obj) {
 
 /***/ }),
 
-/***/ 192:
+/***/ 193:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "main.2262986fc36f241442d8.jpg";
 
 /***/ }),
 
-/***/ 196:
+/***/ 197:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(86);
+module.exports = __webpack_require__(89);
 
 
 /***/ }),
 
-/***/ 86:
+/***/ 89:
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(150);
+var content = __webpack_require__(151);
 if(typeof content === 'string') content = [[module.i, content, '']];
 // add the styles to the DOM
-var update = __webpack_require__(191)(content, {});
+var update = __webpack_require__(192)(content, {});
 if(content.locals) module.exports = content.locals;
 // Hot Module Replacement
 if(false) {
@@ -367,5 +367,5 @@ if(false) {
 
 /***/ })
 
-},[196]);
+},[197]);
 //# sourceMappingURL=styles.bundle.js.map
