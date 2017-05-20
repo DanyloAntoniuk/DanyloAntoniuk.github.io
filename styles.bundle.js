@@ -62,7 +62,7 @@ module.exports = function() {
 
 exports = module.exports = __webpack_require__(14)();
 // imports
-exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=PT+Serif);", ""]);
+
 
 // module
 exports.push([module.i, "body {\n  background: url(" + __webpack_require__(193) + ");\n}\n\n", ""]);

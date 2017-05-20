@@ -26,7 +26,7 @@ exports = module.exports = __webpack_require__(14)();
 
 
 // module
-exports.push([module.i, "div {\r\n  margin: 10px auto 25px;\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n  width: 340px;\r\n  height: 480px;\r\n}\r\n\r\nh2, h3 {\r\n  font-weight: 600;\r\n  color: #000;\r\n  text-align: center;\r\n}\r\n\r\nli {\r\n  font-family: 'PT Serif', serif;\r\n  font-size: 18px;\r\n  text-align: left;\r\n  padding-top: 10px;\r\n}\r\n\r\n@media (max-width: 450px) {\r\n\r\n  img {\r\n    width: 100%;\r\n    height: 100%;\r\n  }\r\n}\r\n", ""]);
+exports.push([module.i, "div {\r\n  margin: 10px auto 25px;\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n  width: 340px;\r\n  height: 480px;\r\n}\r\n\r\nh2, h3 {\r\n  font-weight: 600;\r\n  color: #000;\r\n  text-align: center;\r\n}\r\n\r\nli {\r\n  font-family: 'Arial', serif;\r\n  font-size: 18px;\r\n  text-align: left;\r\n  padding-top: 10px;\r\n}\r\n\r\n@media (max-width: 450px) {\r\n\r\n  img {\r\n    width: 100%;\r\n    height: 100%;\r\n  }\r\n}\r\n", ""]);
 
 // exports
 
@@ -44,7 +44,7 @@ exports = module.exports = __webpack_require__(14)();
 
 
 // module
-exports.push([module.i, "div {\r\n  margin: 10px auto 25px;\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n  width: 340px;\r\n  height: 480px;\r\n}\r\nh2, h3 {\r\n  font-weight: 600;\r\n  color: #000;\r\n  text-align: center;\r\n}\r\n\r\nli {\r\n  font-family: 'PT Serif', serif;\r\n  font-size: 18px;\r\n  padding-top: 10px;\r\n}\r\n\r\n.text {\r\n  text-align: left;\r\n}\r\n\r\n.def {\r\n  font-weight: 600;\r\n  color: #000;\r\n  font-size: 18px;\r\n}\r\n\r\n@media (max-width: 450px) {\r\n\r\n  img {\r\n    width: 100%;\r\n    height: 100%;\r\n  }\r\n}\r\n", ""]);
+exports.push([module.i, "div {\r\n  margin: 10px auto 25px;\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n  width: 340px;\r\n  height: 480px;\r\n}\r\nh2, h3 {\r\n  font-weight: 600;\r\n  color: #000;\r\n  text-align: center;\r\n}\r\n\r\nli {\r\n  font-family: 'Arial', serif;\r\n  font-size: 18px;\r\n  padding-top: 10px;\r\n}\r\n\r\n.text {\r\n  text-align: left;\r\n}\r\n\r\n.def {\r\n  font-weight: 600;\r\n  color: #000;\r\n  font-size: 18px;\r\n}\r\n\r\n@media (max-width: 450px) {\r\n\r\n  img {\r\n    width: 100%;\r\n    height: 100%;\r\n  }\r\n}\r\n", ""]);
 
 // exports
 
@@ -62,7 +62,7 @@ exports = module.exports = __webpack_require__(14)();
 
 
 // module
-exports.push([module.i, "div {\r\n  margin: 10px auto 25px;\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n  width: 340px;\r\n  height: 480px;\r\n}\r\n\r\nh2, h3 {\r\n  font-weight: 600;\r\n  color: #000;\r\n  text-align: center;\r\n}\r\n\r\nspan, li {\r\n  font-family: 'PT Serif', serif;\r\n  font-size: 18px;\r\n}\r\n\r\nli {\r\n  padding-top: 10px;\r\n}\r\n\r\n.text {\r\n  text-align: left;\r\n}\r\n\r\n.def {\r\n  font-weight: 600;\r\n  color: #000;\r\n  font-size: 18px;\r\n}\r\n\r\n@media (max-width: 450px) {\r\n\r\n  img {\r\n    width: 100%;\r\n    height: 100%;\r\n  }\r\n}\r\n", ""]);
+exports.push([module.i, "div {\r\n  margin: 10px auto 25px;\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n  width: 340px;\r\n  height: 480px;\r\n}\r\n\r\nh2, h3 {\r\n  font-weight: 600;\r\n  color: #000;\r\n  text-align: center;\r\n}\r\n\r\nspan, li {\r\n  font-family: 'Arial', serif;\r\n  font-size: 18px;\r\n}\r\n\r\nli {\r\n  padding-top: 10px;\r\n}\r\n\r\n.text {\r\n  text-align: left;\r\n}\r\n\r\n.def {\r\n  font-weight: 600;\r\n  color: #000;\r\n  font-size: 18px;\r\n}\r\n\r\n@media (max-width: 450px) {\r\n\r\n  img {\r\n    width: 100%;\r\n    height: 100%;\r\n  }\r\n}\r\n", ""]);
 
 // exports
 
